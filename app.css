@@ -530,6 +530,17 @@ footer .content {
     text-align: center;
 }
 
+.vi-tech{
+    margin-top: 2em;
+    font-size: .9em;
+    color:#ccc;
+    border-top: 1px solid #ccc;
+    text-align: center;
+    padding-top: .5em;
+}
+.vi-tech-link{
+    color: #22d3ee;
+}
 /* RESPONSIVE */
 
 @media only screen and (max-width: 1280px) {
